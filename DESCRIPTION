@@ -1,9 +1,9 @@
 Package: asciidocr
-Maintainer: David Hajage <dhajage@gmail.com>
+Maintainer: Vladimir Skvortsov <vskvortsoff@gmail.com>
 License: GPL (>= 2)
 Title: Export R objects to several markup languages
 Type: Package
-Author: (David Hajage)
+Author: David Hajage
 Description: Coerce R object to asciidoc, txt2tags, or pandoc syntax. 
              Package comes with a set of drivers for Sweave. 
              Some parts of this package are based on ascii package by David Hajage <dhajage@gmail.com>.
