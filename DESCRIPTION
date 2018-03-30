@@ -1,4 +1,4 @@
-Package: ascii
+Package: asciidocr
 Maintainer: David Hajage <dhajage@gmail.com>
 License: GPL (>= 2)
 Title: Export R objects to several markup languages
